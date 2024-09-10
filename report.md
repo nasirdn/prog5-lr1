@@ -23,7 +23,7 @@
 
 Шестой шаг.  
 Добавляем путь, где располагается модуль в *sys.path*.  
-![](image_report/pic6.png)
+![](image_report/pic6.png)  
 ![](image_report/pic7.png)
 
 Седьмой шаг.  
