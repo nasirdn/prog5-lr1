@@ -21,6 +21,9 @@
 Запускаем файл *activation_script.py*.  
 ![](image_report/pic5.png)
 
+Импортируем модуль.
+![](image_report/pic9.jpg)
+
 Шестой шаг.  
 Добавляем путь, где располагается модуль в *sys.path*.  
 ![](image_report/pic6.png)  
