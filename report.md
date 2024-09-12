@@ -21,7 +21,7 @@
 Запускаем файл *activation_script.py*.  
 ![](image_report/pic5.png)
 
-Импортируем модуль.
+Импортируем модуль.  
 ![](image_report/pic9.jpg)
 
 Шестой шаг.  
