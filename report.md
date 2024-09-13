@@ -32,3 +32,8 @@
 Седьмой шаг.  
 Импортируем файл *myremotemodule.py*, в котором размещена функция *myfoo*.  
 ![](image_report/pic8.png)
+
+Восьмой шаг.  
+Используя в качестве источника модуля github pages.  
+![](image_report/pic10.png)  
+![](image_report/pic11.png)
