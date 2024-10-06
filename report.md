@@ -36,4 +36,7 @@
 Восьмой шаг.  
 Используя в качестве источника модуля github pages.  
 ![](image_report/pic10.png)  
-![](image_report/pic11.png)
+![](image_report/pic11.png)  
+
+Девятый шаг.  
+![](image_report/pic12.png) 
